@@ -1,0 +1,5 @@
+cd "C:\Users\dacer\OneDrive\Escritorio\practivas java"
+git status
+git add .
+git commit -m "Agregar cambios"
+git push
